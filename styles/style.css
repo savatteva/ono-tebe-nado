@@ -26,7 +26,7 @@
   line-height: 21.13px;
   list-style: circle;
   text-underline-offset: 4px;
-  line-height: normal;
+  letter-spacing: normal;
   padding: 1px 5px 0 0;
 }
 
@@ -37,7 +37,7 @@
 
 .header__logo {
   display: inline;
-  margin-right: 155px;
+  margin-right: 15px;
 }
 
 .header__logo-image {
